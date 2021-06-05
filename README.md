@@ -1,4 +1,4 @@
-#  REDUX PRACTICE: SOCIAL APP  *
+#  REDUX PRACTICE: Travel Blog
 
 Created with love by Prince 
   
