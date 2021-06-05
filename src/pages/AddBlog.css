@@ -1,0 +1,44 @@
+/* New Blog Page */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.create-new-blog {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create-new-blog label {
+  text-align: left;
+  display: block;
+}
+.create-new-blog h2 {
+  font-size: 1.5rem;
+  color: #a10702;
+  margin: 3rem 0;
+}
+.create-new-blog input,
+.create-new-blog textarea,
+.create-new-blog select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create-new-blog button {
+  background: #a10702;
+  font-size: 1.3rem;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.create-new-blog button:hover {
+  opacity: 0.9;
+  transform: scale(1.1);
+}
