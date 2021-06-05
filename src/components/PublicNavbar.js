@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-import logo from '../logo.svg';
+import logo from '../logo.png';
 import { useDispatch, useSelector } from 'react-redux';
 import { logout } from '../redux/actions/auth.actions';
 
@@ -13,7 +13,7 @@ const PublicNavbar = () => {
       <Navbar bg='light' expand='lg'>
         <Navbar.Brand>
           <Nav.Link as={NavLink} to='/'>
-            <img src={logo} alt='CoderSchool' width='200px' />
+            <img src={logo} alt='logo' width='50px' />
           </Nav.Link>
         </Navbar.Brand>
         <Nav className='mr-auto'>

@@ -2,7 +2,7 @@
 
 Created with love by Prince 
   
-View online at: 
+View online at: https://brave-benz-d522a1.netlify.app/
 
 Rest API: https://social-blog-cs.herokuapp.com 
   
