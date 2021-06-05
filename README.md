@@ -1,4 +1,4 @@
-#  SOCIAL APP  *
+#  REDUX PRACTICE: SOCIAL APP  *
 
 Created with love by Prince 
   
